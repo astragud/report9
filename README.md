@@ -1,1 +1,2 @@
-# report9
+# Graph(dfs & bfs)
+![](./img/result9.png)
