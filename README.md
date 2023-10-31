@@ -1,2 +1,2 @@
 # Graph(dfs & bfs)
-![](./img/result9.png)
+![](./result9.png)
